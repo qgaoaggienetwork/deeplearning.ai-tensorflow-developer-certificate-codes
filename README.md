@@ -1,10 +1,10 @@
-deeplearning.ai TensorFlow Developer Certificate Codes
+deeplearning.ai TensorFlow Developer Certificate Codes:
 This repository contains the Jupyter Notebooks I completed as part of the deeplearning.ai TensorFlow Developer Certificate. Each notebook represents a project or an exercise from the course, covering various aspects of TensorFlow and deep learning.
 
-Course Overview
+Course Overview:
 The deeplearning.ai TensorFlow Developer Certificate program is designed to help learners develop their skills in deep learning and TensorFlow. The course covers a wide range of topics, including neural networks, convolutions, natural language processing, and time series forecasting.
 
-Notebooks
+Notebooks:
 Below is a list of the Jupyter Notebooks included in this repository, organized by course and week:
 
 Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
@@ -25,8 +25,9 @@ C3W4_Predicting the next word.ipynb: Building a model to predict the next word i
 Course 4: Sequences, Time Series and Prediction
 C4W1_Working with time series.ipynb: Introduction to time series data and preprocessing.
 C4W2_Predicting time series.ipynb: Developing models to forecast future values in a time series.
-License
+
+License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+Acknowledgments:
 I would like to thank the deeplearning.ai team for creating such a comprehensive and engaging course. The knowledge and skills gained from this program have been invaluable.
